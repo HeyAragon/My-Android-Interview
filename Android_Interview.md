@@ -77,6 +77,8 @@
 
 ![image](https://github.com/HeyAragon/My-Android-Interview/blob/master/Android_Interview_IMG/broadcast_receiver_model.webp)
 
+![](C:\Users\Administrator\Desktop\Android Interview\Android_Interview_IMG\broadcast_receiver_model.webp)
+
 ### 广播注册方式
 
 - **静态注册**
