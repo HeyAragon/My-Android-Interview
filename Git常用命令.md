@@ -102,6 +102,9 @@ $ git branch [branch] [commit]
 # 新建一个分支，与指定的远程分支建立追踪关系
 $ git branch --track [branch] [remote-branch]
 
+#将本地分支与远程分支建立追踪关系
+#git branch --set-upstream-to=origin/[branch] [branch]
+
 # 切换到指定分支，并更新工作区
 $ git checkout [branch-name]
 
