@@ -368,3 +368,4 @@ $ ssh -T git@github.com
 ##### 2.**[PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView)**
 
 [![img](https://raw.githubusercontent.com/romandanylyk/PageIndicatorView/master/assets/preview_anim_drop.gif?ynotemdtimestamp=1574385713790)
+
